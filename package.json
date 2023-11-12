@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "whatsapp-clone",
+  "license": "MIT",
+  "workspaces": [
+    "client",
+    "server",
+    "common"
+  ]
+}
